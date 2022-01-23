@@ -5,6 +5,7 @@
       "name": "World of Tanks",
       "image": "https://www.freetogame.com/g/2/thumbnail.jpg",
       "description": "If you like blowing up tanks, with a quick and intense game style you will love this game!",
+      "genre":"aventura",
       "price": "100"
     },
     {
@@ -12,6 +13,7 @@
       "name": "Warframe",
       "image": "https://www.freetogame.com/g/3/thumbnail.jpg",
       "description": "A cooperative free-to-play third person online action shooter set in an stunning sci-fi world. ",
+      "genre":"aventura",
       "price": "100"
     },
     {
@@ -19,6 +21,7 @@
       "name": "CRSED: F.O.A.D.",
       "image": "https://www.freetogame.com/g/4/thumbnail.jpg",
       "description": "Take the battle royale genre and add  mystical powers and you have CRSED: F.O.A.D. (Aka Cuisine Royale: Second Edition)",
+      "genre":"aventura",
       "price": "100"
     },
     {
@@ -26,6 +29,7 @@
       "name": "Crossout",
       "image": "https://www.freetogame.com/g/5/thumbnail.jpg",
       "description": "A post-apocalyptic MMO vehicle combat game! ",
+      "genre":"aventura",
       "price": "100"
     },
     {
@@ -33,6 +37,7 @@
       "name": "Armored Warfare",
       "image": "https://www.freetogame.com/g/7/thumbnail.jpg",
       "description": "A modern team-based MMO tank game from Obsidian Entertainment.",
+      "genre":"aventura",
       "price": "100"
     },
     {
@@ -40,6 +45,7 @@
       "name": "World of Warships",
       "image": "https://www.freetogame.com/g/9/thumbnail.jpg",
       "description": "A 3D free to play naval action-themed MMO from the creators of World of Tanks! ",
+      "genre":"aventura",
       "price": "100"
     },
     {
@@ -47,6 +53,7 @@
       "name": "War Thunder",
       "image": "https://www.freetogame.com/g/12/thumbnail.jpg",
       "description": "A MMO shooter that puts you in command of hundreds of the finest combat vehicles of World War II.",
+      "genre":"aventura",
       "price": "100"
     },
     {
@@ -54,6 +61,7 @@
       "name": "Crossfire",
       "image": "https://www.freetogame.com/g/15/thumbnail.jpg",
       "description": "A first person tactical shooter with a huge selection of game modes!",
+      "genre":"tiro",
       "price": "100"
     },
     {
@@ -61,6 +69,7 @@
       "name": "Splitgate: Arena Warfare",
       "image": "https://www.freetogame.com/g/20/thumbnail.jpg",
       "description": "A free-to-play multiplayer shooter developed and published by 1047 games. ",
+      "genre":"tiro",
       "price": "100"
     },
     {
@@ -68,6 +77,7 @@
       "name": "Destiny 2",
       "image": "https://www.freetogame.com/g/21/thumbnail.jpg",
       "description": "A free-to-play multiplayer Sci-Fi MMOFPS from Bungie.",
+      "genre":"tiro",
       "price": "100"
     },
     {
@@ -75,6 +85,7 @@
       "name": "Apex Legends",
       "image": "https://www.freetogame.com/g/23/thumbnail.jpg",
       "description": "A free-to-play strategic battle royale game featuring 60-player matches and team-based play. ",
+      "genre":"tiro",
       "price": "100"
     },
     {
@@ -82,6 +93,7 @@
       "name": "Counter-Strike: Global Offensive",
       "image": "https://www.freetogame.com/g/24/thumbnail.jpg",
       "description": "The popular multiplayer shooter from Valve. ",
+      "genre":"tiro",
       "price": "100"
     },
     {
@@ -89,6 +101,7 @@
       "name": "Spacelords",
       "image": "https://www.freetogame.com/g/28/thumbnail.jpg",
       "description": "A free-to-play 4v1 sci-fi shooter. ",
+      "genre":"tiro",
       "price": "100"
     },
     {
@@ -96,6 +109,7 @@
       "name": "Ring of Elysium",
       "image": "https://www.freetogame.com/g/29/thumbnail.jpg",
       "description": "A free-to-play battle royale developed and published by Tencent Games. ",
+      "genre":"tiro",
       "price": "100"
     },
     {
@@ -103,6 +117,7 @@
       "name": "Quake Champions",
       "image": "https://www.freetogame.com/g/30/thumbnail.jpg",
       "description": "Quake Champions is a callback to the early days of the Quake IP, featuring the fast-paced action that made the IP popular over two decades ago. ",
+      "genre":"tiro",
       "price": "100"
     }
   ]
